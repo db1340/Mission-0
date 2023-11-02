@@ -6,6 +6,8 @@ Tasks for Professional Software Developers
 Task 3. Implement the wireframe of a listing website home page
 The digital team would like to prototype a solution that resembles the wireframe below.
 
+![370270002_880482103469456_4212553268064756607_n](https://github.com/db1340/Mission-0/assets/149652724/c772b66f-d901-432d-a20c-442dd07ada37)
+
 
 Build an application using any front-end framework of your choice with a home page using the wireframe shared as guidance.
 You can use your own color palette and pictures.
